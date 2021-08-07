@@ -4,7 +4,7 @@ def add(x,y):
 
 #subtract implentation
 def subtract(x,y):
-    pass
+    return x-y      # On Bug 456 Branch
 
 #multiply implentation  
 def multiply(x,y):
