@@ -4,7 +4,7 @@ def add(x,y):
 
 #subtract implentation
 def subtract(x,y):
-    pass
+    retrun x-y        #from remote repository
 
 #multiply implentation  
 def multiply(x,y):
